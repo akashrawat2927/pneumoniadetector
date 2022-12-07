@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'pdcnn'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD6B65B69E8940428A687F5DA5FECFFE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_53D945FE770F4F9889A9ECB2739A5636 }}
