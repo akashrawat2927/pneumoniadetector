@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b099b93d-6a8f-4a86-b388-5cac0bea85d8/appservices/subscriptions/b099b93d-6a8f-4a86-b388-5cac0bea85d8/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/pdcnn",
+    "appService.deploySubpath": "."
+}
